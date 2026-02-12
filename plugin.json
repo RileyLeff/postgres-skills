@@ -1,0 +1,26 @@
+{
+  "name": "postgres-skills",
+  "description": "PostgreSQL 18, PostGIS 3.6.1, Row Level Security, and TimescaleDB 2.24.0 best practices. Extracted from troykelly/claude-skills.",
+  "skills": [
+    {
+      "name": "database-architecture",
+      "path": "skills/database-architecture/SKILL.md",
+      "description": "PostgreSQL 18 schema design, migrations, indexes, UUIDv7, temporal constraints, and modern indexing strategies"
+    },
+    {
+      "name": "postgis",
+      "path": "skills/postgis/SKILL.md",
+      "description": "PostGIS 3.6.1 spatial queries, geometry operations, ST_CoverageClean, SFCGAL 3D functions"
+    },
+    {
+      "name": "postgres-rls",
+      "path": "skills/postgres-rls/SKILL.md",
+      "description": "PostgreSQL Row Level Security best practices, tenant isolation, bypass vulnerability detection"
+    },
+    {
+      "name": "timescaledb",
+      "path": "skills/timescaledb/SKILL.md",
+      "description": "TimescaleDB 2.24.0 hypertables, continuous aggregates, compression, and time-series best practices"
+    }
+  ]
+}
