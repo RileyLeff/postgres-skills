@@ -1,0 +1,5 @@
+{
+  "name": "postgres-skills",
+  "description": "PostgreSQL 18, PostGIS 3.6.1, Row Level Security, and TimescaleDB 2.24.0 best practices. Extracted from troykelly/claude-skills.",
+  "version": "1.0.0"
+}
