@@ -1,9 +1,13 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "postgres-skills",
+  "owner": {
+    "name": "RileyLeff"
+  },
   "plugins": [
     {
       "name": "postgres-skills",
-      "source": ".",
+      "source": "./plugins/postgres-skills",
       "description": "PostgreSQL 18, PostGIS 3.6.1, Row Level Security, and TimescaleDB 2.24.0 best practices for Claude Code."
     }
   ]
