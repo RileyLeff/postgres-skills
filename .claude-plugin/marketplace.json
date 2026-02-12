@@ -1,0 +1,10 @@
+{
+  "name": "postgres-skills",
+  "plugins": [
+    {
+      "name": "postgres-skills",
+      "source": ".",
+      "description": "PostgreSQL 18, PostGIS 3.6.1, Row Level Security, and TimescaleDB 2.24.0 best practices for Claude Code."
+    }
+  ]
+}
